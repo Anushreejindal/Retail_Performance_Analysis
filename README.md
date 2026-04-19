@@ -5,6 +5,8 @@ To perform an end-to-end business performance analysis on retail data by evaluat
 
 ## 📂 Dataset Source
 
+ 
+## 🧾 Understanding the Dataset
 ### 🚚 Ship Mode
 Represents the shipping method chosen for each order. Since no official delivery timelines are provided, the following assumptions have been made:
  
