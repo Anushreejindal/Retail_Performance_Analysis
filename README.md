@@ -1,4 +1,4 @@
-# 🛒 Retail Performance Analysis – Superstore Insights
+# 🛒 Revenue Leakage & Profitability Analysis - Retail Superstore
 
 **Author**: Anushree Jindal <br>
 **Dataset Used**: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
@@ -9,8 +9,7 @@
 
 ## 📌 Objective
 
-To perform an end-to-end business performance analysis on retail data by evaluating sales, profit, discount patterns, and shipping methods. The goal is to identify inefficiencies and recommend strategies to improve profitability by reducing losses and enhancing operational effectiveness.
-
+To conduct an end-to-end analytical assessment of retail business performance by examining sales, profitability, discounting behavior, and shipping dynamics. The analysis aims to identify inefficiencies, uncover loss-driving factors, and generate data-driven recommendations to optimize profit margins, minimize losses, and improve overall operational efficiency.
  
 ## 🧾 Understanding the Dataset
 ### 🚚 Ship Mode
