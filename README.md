@@ -90,7 +90,8 @@ The following new columns were derived from existing data to enable more accurat
 
 ### 🌍 Region Analysis
 
-- **West** is the most efficient region - highest revenue, highest profit, controlled losses.
+- **East** generates the highest total profit but also carries significantly high losses, making it less efficient overall.
+- **West** is the most efficient region despite slightly lower profit than East, it maintains the lowest losses and highest profit margin, making it the most operationally sound region.
 - **South** is the least profitable region despite moderate sales.
 - **Central** appears to be a loss making region overall - but drilling down reveals that only **2 out of 12+ states** are responsible for the entire region's losses. The rest of the region is profitable.
 - Central's losses are largely driven by **high average discounts** eroding its profit margin.
