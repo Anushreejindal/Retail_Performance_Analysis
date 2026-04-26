@@ -124,3 +124,7 @@ The following new columns were derived from existing data to enable more accurat
 The analysis reveals that profitability challenges are not widespread but concentrated in specific subcategories, regions, and operational decisions-particularly discounting strategies.  
 
 Addressing high-discount, loss-making areas (like Tables and Binders) and improving regional efficiency (especially in Central) can significantly enhance overall business performance.
+
+## Dashboard
+
+<img width="800" height="550" alt="ER Diagram" src="image.png" />
